@@ -3,21 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b41b646a-5fdd-4230-8569-e5f3d46d2141" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Ruby Console" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372180466556" ignored="false" />
-    <file path="/Dummy.txt" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372198487639" ignored="false" />
+    <file path="/Dummy.txt" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372198510708" ignored="false" />
     <file path="/hello.html" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368210238808" ignored="false" />
     <file path="/a.regexp" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368214140447" ignored="false" />
     <file path="/Gemfile" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368215320655" ignored="false" />
     <file path="/index.html" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368216332554" ignored="false" />
     <file path="/index.html.erb" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1371678303772" ignored="false" />
-    <file path="/production.rb" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372198504226" ignored="false" />
+    <file path="/production.rb" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372198510145" ignored="false" />
     <file path="/routes.rb" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1371685735285" ignored="false" />
     <file path="/application.js" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372185161554" ignored="false" />
     <file path="/application.rb" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372195773409" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372196048677" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -821,7 +821,11 @@
       <created>1372198490807</created>
       <updated>1372198490807</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Commit last changes">
+      <created>1372198515167</created>
+      <updated>1372198515167</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
