@@ -7,7 +7,7 @@
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Ruby Console" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372180466556" ignored="false" />
-    <file path="/Dummy.txt" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372203465534" ignored="false" />
+    <file path="/Dummy.txt" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1372203510052" ignored="false" />
     <file path="/hello.html" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368210238808" ignored="false" />
     <file path="/a.regexp" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368214140447" ignored="false" />
     <file path="/Gemfile" changelist="b41b646a-5fdd-4230-8569-e5f3d46d2141" time="1368215320655" ignored="false" />
@@ -858,7 +858,11 @@
       <created>1372203467086</created>
       <updated>1372203467086</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Commit last changes">
+      <created>1372203512895</created>
+      <updated>1372203512895</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
